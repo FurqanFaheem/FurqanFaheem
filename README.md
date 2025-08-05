@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Furqan!
 👩🏻‍💻 An aspiring software engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studying Autonomous Vehicle Engineering at the Technical University of Ingolstadt/>
+👩🏻‍🎓 Studying Autonomous Vehicle Engineering at the Technical University of Ingolstadt
 
 ![](https://github-readme-stats.vercel.app/api?username=FurqanFaheem&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
